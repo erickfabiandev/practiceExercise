@@ -1,0 +1,149 @@
+body{
+    background-color: #dadfe4;
+    font-family: 'Space Mono', monospace;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+    
+}
+
+.flex-task{
+    
+    width: 350px;
+    padding: 10px;
+    background-color: #ffffff;
+    display: flex;
+    font-family: 'Space Mono', monospace;
+
+}
+
+.flex-list{
+    
+    width: 350px;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #61A5C7;
+}
+
+.flex-list-task{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 350px;
+    padding: 10px;
+    padding-bottom: 15px;
+    background-color: #ffffff;
+    color: #61A5C7;
+}
+
+.flex-list h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #61A5C7;
+
+}
+
+.taskItem{
+    display: none;
+}
+
+.tastkName{
+    padding-right: 10px;
+}
+
+.tastkName:before{
+    content: ' ';    
+    border-radius: 2px;
+    border: 3px solid #61A5C7;
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.taskItem:checked + .tastkName:before{
+    content: '✔';
+    font-size: 20px;
+    color:#61A5C7;    
+    border: 0px;
+}
+
+
+.taskContainer{
+    display: flex;
+    align-items: center;
+}
+
+.separator{
+    border-top: 1px solid #F0EEEE;
+}
+
+.isCompleted{
+    text-decoration: line-through;   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#buttonAdd{
+  
+  background-color: #F65C74;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  height: 30px;
+  margin-left: 310px;
+  margin-top: 8px;
+  margin-bottom: 5px;
+  position: absolute;
+  color:#F3EFF0;
+  font-family: 'Space Mono', monospace;
+ 
+}
+
+#textTask{
+    padding: 5px;
+    padding-right: 8px;
+    padding-left: 12px;
+    height: 35px;
+    border: none;
+    outline: none;
+    background-color: #F3EFF0;
+    flex-grow: 1;
+}
+
+#buttonDelete{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Space Mono', monospace;
+    border: none;
+    border-radius: 5px;
+    background-color: #61A5C7;
+    color: #ffffff;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
