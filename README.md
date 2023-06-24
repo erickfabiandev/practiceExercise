@@ -9,7 +9,10 @@ The repository is organized as follows:
 **Modules Folder:** Contains subfolders corresponding to each module of the bootcamp. Inside each subfolder, you will find exercises related to that specific module.
 
 1. Fase Inicial: Sprint 1
-    * CSS Avanzado : [Flexbox CSS/HTML Responsive Project](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/Html%201)
+    * Flexbox : [Flexbox CSS/HTML Responsive Project](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/Html%201)
+    * Manejo del DOM con JavaScript Vanilla : [https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/JavaScript_Vanilla]
+    * Css Avanzado - SASS : [https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/my-team-page]
+    * BEM : []
 
 
 ## Navigating the Repository
