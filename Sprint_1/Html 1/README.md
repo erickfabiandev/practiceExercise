@@ -27,6 +27,7 @@ Here is a screenshot of the project, showcasing the responsive design and the el
 ![image](assets/image.png)
 
 ***mobile size-376px***
+
 ![image](assets/image2.png)
 
 ## My Process
