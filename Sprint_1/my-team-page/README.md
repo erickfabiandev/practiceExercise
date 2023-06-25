@@ -25,10 +25,12 @@ The challenge is to design and build a responsive team web page that is flexible
 ### Screenshot
 Here is a screenshot of the project's interface:
 
-***1.-Project web view***  
+***1.-Project web view***
 ![image](assets/image.png)
 
+
 ***2.-Project mobile view***
+
 ![image](assets/image1.png)
 
 ***3.-View making use of the hover event***

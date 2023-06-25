@@ -1,4 +1,4 @@
-# Practice Exercises - MAKE IT REAL Bootcamp
+# PRACTICE EXERCISES 👨🏾‍💻
 Welcome to the repository of practice exercises from the MAKE IT REAL Bootcamp!
 
 In this repository, you will find the exercises I have developed during my participation in the MAKE IT REAL Bootcamp. These exercises cover a wide range of programming topics and concepts, showcasing my progress and learning throughout the bootcamp.
@@ -9,7 +9,11 @@ The repository is organized as follows:
 **Modules Folder:** Contains subfolders corresponding to each module of the bootcamp. Inside each subfolder, you will find exercises related to that specific module.
 
 1. Fase Inicial: Sprint 1
-    * CSS Avanzado : [Flexbox CSS/HTML Responsive Project](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/Html%201)
+    * Flexbox : [Flexbox CSS/HTML Responsive Project](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/Html%201)
+    * Manejo del DOM con JavaScript Vanilla : [Project Task List: Javascript Vanilla](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/JavaScript_Vanilla)
+    * Css Avanzado - SASS : [Project My Team Page - Mobile First, Flexbox, Sass](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/my-team-page)
+    * BEM : []
+    * Javascript Funciones : [functional-programming-es6-javascript]()
 
 
 ## Navigating the Repository
