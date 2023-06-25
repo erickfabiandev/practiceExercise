@@ -10,8 +10,11 @@ Each exercise presents a set of specific tasks that you need to accomplish using
 
 ## Screenshots
 ***Exercises 1***
+
 ![Image](image.png)
+
 ***Exercises 2***
+
 ![Image](image-1.png)
 ![Image](image-2.png)
 
