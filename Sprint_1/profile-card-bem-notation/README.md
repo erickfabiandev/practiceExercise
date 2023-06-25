@@ -23,10 +23,12 @@ The challenge was to create a visually appealing profile card that presents info
 Here is a screenshot of the project's interface:
 
 ***1.-Project web view and mobile view***
+
 ![Image](assets/image.png)
 
 
 ***2.-View making use of the hover event***
+
 ![Image](assets/image-1.png)
 ![Image](assets/image-2.png)
 ![Image](assets/image-3.png)
