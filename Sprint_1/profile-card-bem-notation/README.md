@@ -1,5 +1,5 @@
 # ProfileCard - BEM notation
-I designed the TAREJTA DE PROFIL project to implement the BEM notation, it has the following structure:
+I designed the PROFILE CARD project to implement the BEM notation, it has the following structure:
 
 ## Table of contents
 
