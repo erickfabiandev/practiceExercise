@@ -13,7 +13,7 @@ The repository is organized as follows:
     * Manejo del DOM con JavaScript Vanilla : [Project Task List: Javascript Vanilla](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/JavaScript_Vanilla)
     * Css Avanzado - SASS : [Project My Team Page - Mobile First, Flexbox, Sass](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/my-team-page)
     * BEM : []
-    * Javascript Funciones : [functional-programming-es6-javascript]()
+    * Javascript Funciones : [functional-programming-es6-javascript](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/functional-programming-es6-javascript)
 
 
 ## Navigating the Repository
