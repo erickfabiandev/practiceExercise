@@ -15,6 +15,9 @@ The repository is organized as follows:
     * BEM : [ProfileCard - BEM notation](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/profile-card-bem-notation)
     * Javascript Funciones : [functional-programming-es6-javascript](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/functional-programming-es6-javascript)
 
+2.- Fase Inicial: Sprint 2
+    * Intro a Jxs : [my-first-react-app]()
+
 
 ## Navigating the Repository
 * Clone or download this repository to your local machine to access the exercise files.
