@@ -16,7 +16,7 @@ The repository is organized as follows:
     * Javascript Funciones : [functional-programming-es6-javascript](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/functional-programming-es6-javascript)
 
 2.- Fase Inicial: Sprint 2
-    * Intro a Jxs : [my-first-react-app]()
+    * Intro a Jxs : [my-first-react-app]
 
 
 ## Navigating the Repository
