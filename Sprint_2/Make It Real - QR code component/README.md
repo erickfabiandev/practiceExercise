@@ -73,4 +73,4 @@ During the project development, the following resources proved to be useful:
 
 ## Author
 This project was created by Erick Fabian. 
-You can reach me at [erickfabiandev.com](erickfabiandev.com) for any inquiries or feedback.
+You can reach me at [erickfabiandev.com](https://erickfabiandev.com) for any inquiries or feedback.
