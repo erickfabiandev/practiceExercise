@@ -1,0 +1,8 @@
+#root {
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #D6EAF8;
+  height: 100vh;
+}
