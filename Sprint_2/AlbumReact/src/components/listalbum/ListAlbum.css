@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cointaner__List{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background:#F7F9F9;
+    font-size: 20px;
+}
+
+@media (max-width:375px) {
+    
+    .cointaner__List{
+        width: 100%;
+    }
+
+}
