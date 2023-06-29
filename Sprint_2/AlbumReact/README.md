@@ -40,11 +40,11 @@ Here is a screenshot of the project's interface:
 
 
 ***2.-Project mobile view***
-![Image](./src/assets/image-2.png)
+![Image](./src/assets/image-2.PNG)
 
 ***3.-Functionality***
 
-![Image](./src/assets/image-1.png)
+![Image](./src/assets/image-1.PNG)
 
 
 
