@@ -16,7 +16,8 @@ The repository is organized as follows:
     * Javascript Funciones : [functional-programming-es6-javascript](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_1/functional-programming-es6-javascript)
 
 2.- Fase Inicial: Sprint 2
-    * Intro a Jxs : [my-first-react-app]
+   * Into JXS  : [my-first-react-app](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_2/my-first-react-app)
+   * Manejo de Component : [Project React - QR Compoment](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_2/Make%20It%20Real%20-%20QR%20code%20component)
 
 
 ## Navigating the Repository
@@ -33,4 +34,4 @@ This repository is personal and represents my work during the MAKE IT REAL Bootc
 
 ***Thank you for your interest in my progress during the MAKE IT REAL Bootcamp! If you have any questions or comments, feel free to contact me.***
 
-[ERICK FABIAN]
+[ERICK FABIAN](https://erickfabiandev.com/)
