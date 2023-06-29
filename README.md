@@ -18,6 +18,7 @@ The repository is organized as follows:
 2.- Fase Inicial: Sprint 2
    * Into JXS  : [my-first-react-app](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_2/my-first-react-app)
    * Manejo de Component : [Project React - QR Compoment](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_2/Make%20It%20Real%20-%20QR%20code%20component)
+   * Album React : [Album-React](https://github.com/erickfabiandev/practiceExercise/tree/main/Sprint_2/AlbumReact)
 
 
 ## Navigating the Repository
