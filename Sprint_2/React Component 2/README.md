@@ -40,12 +40,11 @@ The main challenge of this project is to create an interactive rating component 
 ### Screenshot
 Here is a screenshot of the project's interface:
 
-***1.-Project web view ***
+***1.-Project web view***
 ![Image](./src/assets/image.png)
 
-
-
 ***2.-Project mobile view***
+
 ![Image](./src/assets/image-3.jpg)
 
 ***3.-Functionality***
